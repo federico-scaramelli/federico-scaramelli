@@ -4,7 +4,7 @@
 
 🎓 I’m currently a MSc Computer Science student at UniMi
 
-📝 Visit my resume page [here](https://drive.google.com/file/d/14SZ6KWLnfM3oGyZTUR8Jvmg2WSkJTOsQ/view?usp=sharing)
+📝 Visit my resume [here](https://drive.google.com/file/d/14SZ6KWLnfM3oGyZTUR8Jvmg2WSkJTOsQ/view?usp=sharing)
 
 🌐 Play my games on my [itch.io page](https://federicoscaramelli.itch.io/)
 

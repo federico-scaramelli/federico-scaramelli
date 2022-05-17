@@ -1,12 +1,10 @@
 👋 Hi, I’m @federico-scaramelli
 
-🎮 I’m a Game Developer and I co-founded [Timeless Tale](https://www.timeless-tale.com/)
+🎮 Game Developer and [Timeless Tale](https://www.timeless-tale.com/) co-founder
 
-🎓 I’m currently a MSc Computer Science student at UniMi
+🎓 I’m currently a MSc Computer Science student at University of Milan
 
-📝 Visit my resume [here](https://drive.google.com/file/d/14SZ6KWLnfM3oGyZTUR8Jvmg2WSkJTOsQ/view?usp=sharing)
-
-🌐 Play my games on my [itch.io page](https://federicoscaramelli.itch.io/)
+📝 Visit my resume and my portfolio [on my official website](https://scaramelli.dev/)
 
 <!---
 federico-scaramelli/federico-scaramelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 
 🎓 I’m currently a MSc Computer Science student at University of Milan
 
-📝 Visit my resume and my portfolio [on my official website](https://scaramelli.dev/)
+📝 Visit my resume and my portfolio on my [official website](https://scaramelli.dev/)
 
 <!---
 federico-scaramelli/federico-scaramelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
